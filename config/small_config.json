@@ -11,5 +11,6 @@
   "model_size": "small",
   "do_lower_case": "False",
   "use_tpu": "True",
+  "num_tpu_cores": 8,
   "gcp_project": "reliable-plasma-174408"
 }
