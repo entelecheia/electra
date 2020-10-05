@@ -7,5 +7,9 @@
   "train_batch_size": 512,
   "learning_rate": 5e-4,
   "max_seq_length": 512,
-  "generator_hidden_size": 1.0
+  "generator_hidden_size": 1.0,
+  "model_size": "small",
+  "do_lower_case": "False",
+  "use_tpu": "True",
+  "gcp_project": "reliable-plasma-174408"
 }
