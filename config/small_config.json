@@ -5,7 +5,7 @@
   "tpu_name": "ekon-electra",
   "tpu_zone": "europe-west4-a",
   "vocab_size": 32000,
-  "num_train_steps": 1000000,
+  "num_train_steps": 1000,
   "save_checkpoints_steps": 50000,
   "keep_checkpoint_max": 10,
   "train_batch_size": 128,
