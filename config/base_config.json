@@ -11,7 +11,7 @@
   "train_batch_size": 256,
   "learning_rate": 2e-4,
   "max_seq_length": 512,
-  "generator_hidden_size": 1.0,
+  "generator_hidden_size": 0.3333,
   "model_size": "base",
   "do_lower_case": "False"
 }
