@@ -13,5 +13,7 @@
   "max_seq_length": 512,
   "generator_hidden_size": 1.0,
   "model_size": "small",
+  "do_train": "True",
+  "do_eval": "True",
   "do_lower_case": "False"
 }
